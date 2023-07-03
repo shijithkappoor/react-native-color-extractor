@@ -1,0 +1,11 @@
+{
+  "name": "react-native-color-extractor",
+  "version": "1.0.0",
+  "description": "a node package for extracting colors from an image on the go. It returns an array of top N colors from an image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
